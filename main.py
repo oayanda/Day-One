@@ -1,3 +1,4 @@
 print("Hello World!\nHello World!")
 print("Hello" + " Angela")
-print("Hello " + input("What is your name?"))
+name = input("What is your name? ")
+print(len(name))
